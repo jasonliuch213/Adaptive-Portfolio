@@ -110,14 +110,16 @@ An (S,s)-style band and a five-trading-day minimum holding period further limit 
 
 ## Citation
 
-If you use this code or find the paper useful, please cite:
+If you find this code or paper useful in your research, please cite:
 
 ```bibtex
 @article{liu2026adaptive,
   title   = {Adaptive Portfolio Positioning under Market Volatility: A Forward-Looking Regime-Switching Approach Using the VIX Term Structure},
   author  = {Liu, Chun Hin},
   year    = {2026},
-  note    = {SSRN Working Paper}
+  journal = {SSRN Electronic Journal},
+  url     = {[https://ssrn.com/abstract=7249698](https://ssrn.com/abstract=7249698)},
+  note    = {Working Paper}
 }
 ```
 
